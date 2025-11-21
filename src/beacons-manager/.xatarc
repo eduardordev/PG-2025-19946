@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Eduardo-Ram-rez-s-workspace-dbu6or.us-east-1.xata.sh/db/beacons-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

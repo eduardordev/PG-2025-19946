@@ -1,0 +1,18 @@
+{
+  "done": true,
+  "migration": {
+    "name": "sql_613e8872714ae1",
+    "operations": [
+      {
+        "sql": {
+          "up": "CREATE TABLE IF NOT EXISTS users (id serial PRIMARY KEY, username varchar(255) UNIQUE NOT NULL, email varchar(255) UNIQUE NOT NULL, password varchar(255) NOT NULL, created_at timestamp DEFAULT current_timestamp, updated_at timestamp DEFAULT current_timestamp)"
+        }
+      }
+    ]
+  },
+  "migrationType": "inferred",
+  "name": "sql_613e8872714ae1",
+  "parent": "sql_d5558d6e4e36a9",
+  "schema": "public",
+  "startedAt": "2025-10-01T00:51:41.095985Z"
+}

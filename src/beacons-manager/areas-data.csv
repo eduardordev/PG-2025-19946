@@ -1,0 +1,6 @@
+numero,nombre,codigo,descripcion,ubicacion,color,activo
+1,Área 1,CIT-01,Ciencia y Tecnología,CIT,#3B82F6,true
+2,Área 2,CIT-02,Innovación y Emprendimiento,CIT,#10B981,true
+3,Área 3,CIT-03,Investigación y Desarrollo,CIT,#EF4444,true
+6,Área 6,CIT-06,Liderazgo Ejecutivo,CIT,#8B5CF6,true
+7,Área 7,CIT-07,Comunidad UVG,CIT,#F59E0B,true

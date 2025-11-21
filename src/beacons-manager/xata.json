@@ -1,0 +1,60 @@
+{
+  "schema": {
+    "tables": [
+      {
+        "name": "info_beacons",
+        "columns": [
+          {
+            "name": "numSensor",
+            "type": "string"
+          },
+          {
+            "name": "codSensor", 
+            "type": "string"
+          },
+          {
+            "name": "idenSensor",
+            "type": "string"
+          },
+          {
+            "name": "x",
+            "type": "float"
+          },
+          {
+            "name": "y",
+            "type": "float"
+          },
+          {
+            "name": "z",
+            "type": "float"
+          },
+          {
+            "name": "unidades",
+            "type": "string"
+          },
+          {
+            "name": "nivel",
+            "type": "int"
+          }
+        ]
+      },
+      {
+        "name": "users",
+        "columns": [
+          {
+            "name": "email",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "passwordHash",
+            "type": "string"
+          }
+        ]
+      }
+    ]
+  }
+}

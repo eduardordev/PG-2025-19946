@@ -1,0 +1,19 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_d3es77blo31p040o6q2g",
+    "operations": [
+      {
+        "rename_table": {
+          "to": "areas",
+          "from": "areas-data"
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_d3es77blo31p040o6q2g",
+  "parent": "mig_d3es6trdeq0sm5b3ieb0",
+  "schema": "public",
+  "startedAt": "2025-10-02T00:13:17.721075Z"
+}

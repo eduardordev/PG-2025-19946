@@ -1,0 +1,1490 @@
+{
+  "verFile": "0.4.0.0",
+  "drawingDataExtractor": {
+    "settings": {
+      "fileList": {
+        "folders": {},
+        "files": {
+          "c:\\users\\eduar\\desktop\\eduardo\\uvg\\megaproyecto\\mapeo-red-sensores\\mapa cad\\cit-floor-6.dwg": {
+            "original": "C:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\\CIT-Floor-6.dwg",
+            "absolute": "C:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\\CIT-Floor-6.dwg",
+            "special": "\u003CDesktop\u003E\\eduardo\\uvg\\megaproyecto\\mapeo-red-sensores\\mapa cad\\cit-floor-6.dwg",
+            "relative": ".\\CIT-Floor-6.dwg",
+            "environment": "",
+            "time": "2025-09-26T20:48:36Z",
+            "$type": "Autodesk.AutoCAD.DataExtraction.DxFileReference"
+          }
+        },
+        "xRefFiles": {},
+        "currentFile": {
+          "original": "C:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\\CIT-Floor-6.dwg",
+          "absolute": "C:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\\CIT-Floor-6.dwg",
+          "special": "\u003CDesktop\u003E\\eduardo\\uvg\\megaproyecto\\mapeo-red-sensores\\mapa cad\\cit-floor-6.dwg",
+          "relative": ".\\CIT-Floor-6.dwg",
+          "environment": "",
+          "time": "2025-09-26T20:48:36Z",
+          "$type": "Autodesk.AutoCAD.DataExtraction.DxFileReference"
+        },
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxFileList"
+      },
+      "selectedTypesAndProperties": [
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.Solid3d, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgAuthor": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgAuthor",
+              "displayName": "Author",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgComments": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgComments",
+              "displayName": "Comments",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgRevisionNumber": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgRevisionNumber",
+              "displayName": "Drawing Revision Number",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "EdgeStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "EdgeStyleId",
+              "displayName": "EdgeStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "FaceStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "FaceStyleId",
+              "displayName": "FaceStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgAccessed": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgAccessed",
+              "displayName": "File Accessed",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgCreated": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgCreated",
+              "displayName": "File Created",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgLastSavedBy": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgLastSavedBy",
+              "displayName": "File Last Saved By",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgLocation": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgLocation",
+              "displayName": "File Location",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgModified": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgModified",
+              "displayName": "File Modified",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgName",
+              "displayName": "File Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgSize": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgSize",
+              "displayName": "File Size",
+              "propValueType": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hyperlink",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgHyperLinkBase": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgHyperLinkBase",
+              "displayName": "Hyperlink Base",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgKeywords": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgKeywords",
+              "displayName": "Keywords",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Layer": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Layer",
+              "displayName": "Layer",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "Linetype Scale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "Lineweight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Material": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Material",
+              "displayName": "Material",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "Plot Style",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgSubject": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgSubject",
+              "displayName": "Subject",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgTitle": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgTitle",
+              "displayName": "Title",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgTotalEditingTime": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgTotalEditingTime",
+              "displayName": "Total Editing Time",
+              "propValueType": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "VisualStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "VisualStyleId",
+              "displayName": "VisualStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "3D Solid",
+          "inUse": true,
+          "$type": "Autodesk.AutoCAD.DataExtraction.DxTypeDescriptor"
+        },
+        {
+          "type": "Autodesk.AutoCAD.DatabaseServices.DBPoint, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "props": {
+            "AcDxObjectTypeGlobalName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeGlobalName",
+              "displayName": "Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxObjectTypeName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxObjectTypeName",
+              "displayName": "Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgAuthor": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgAuthor",
+              "displayName": "Author",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Color": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Color",
+              "displayName": "Color",
+              "propValueType": "Autodesk.AutoCAD.Colors.Color, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgComments": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgComments",
+              "displayName": "Comments",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgRevisionNumber": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgRevisionNumber",
+              "displayName": "Drawing Revision Number",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "EdgeStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "EdgeStyleId",
+              "displayName": "EdgeStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "FaceStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "FaceStyleId",
+              "displayName": "FaceStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgAccessed": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgAccessed",
+              "displayName": "File Accessed",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgCreated": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgCreated",
+              "displayName": "File Created",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgLastSavedBy": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgLastSavedBy",
+              "displayName": "File Last Saved By",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgLocation": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgLocation",
+              "displayName": "File Location",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgModified": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgModified",
+              "displayName": "File Modified",
+              "propValueType": "System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgName",
+              "displayName": "File Name",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgSize": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgSize",
+              "displayName": "File Size",
+              "propValueType": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxEntityHyperlink": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxEntityHyperlink",
+              "displayName": "Hyperlink",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgHyperLinkBase": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgHyperLinkBase",
+              "displayName": "Hyperlink Base",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgKeywords": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgKeywords",
+              "displayName": "Keywords",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Layer": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Layer",
+              "displayName": "Layer",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Linetype": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Linetype",
+              "displayName": "Linetype",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LinetypeScale": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LinetypeScale",
+              "displayName": "LinetypeScale",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "LineWeight": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "LineWeight",
+              "displayName": "LineWeight",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.LineWeight, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "PlotStyleName": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "PlotStyleName",
+              "displayName": "PlotStyleName",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Position.X": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBPoint, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Position",
+              "displayName": "Position X",
+              "propValueType": "Autodesk.AutoCAD.Geometry.Point3d, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 1,
+              "SubPropertyName": "X",
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxSubPropertyDescriptor"
+            },
+            "Position.Y": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBPoint, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Position",
+              "displayName": "Position Y",
+              "propValueType": "Autodesk.AutoCAD.Geometry.Point3d, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 1,
+              "SubPropertyName": "Y",
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxSubPropertyDescriptor"
+            },
+            "Position.Z": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBPoint, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Position",
+              "displayName": "Position Z",
+              "propValueType": "Autodesk.AutoCAD.Geometry.Point3d, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 1,
+              "SubPropertyName": "Z",
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxSubPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgSubject": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgSubject",
+              "displayName": "Subject",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "Thickness": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBPoint, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "Thickness",
+              "displayName": "Thickness",
+              "propValueType": "System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 1,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgTitle": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgTitle",
+              "displayName": "Title",
+              "propValueType": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "AcDxDwgSummaryDwgTotalEditingTime": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.DBObject, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "AcDxDwgSummaryDwgTotalEditingTime",
+              "displayName": "Total Editing Time",
+              "propValueType": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            },
+            "VisualStyleId": {
+              "typeName": "Autodesk.AutoCAD.DatabaseServices.Entity, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "propName": "VisualStyleId",
+              "displayName": "VisualStyleId",
+              "propValueType": "Autodesk.AutoCAD.DatabaseServices.ObjectId, Acdbmgd, Version=25.1.0.0, Culture=neutral, PublicKeyToken=null",
+              "unitType": 0,
+              "$type": "Autodesk.AutoCAD.DataExtraction.DxPropertyDescriptor"
+            }
+          },
+          "displayName": "Point",
+          "inUse": true,
+          "$type": "Autodesk.AutoCAD.DataExtraction.DxTypeDescriptor"
+        }
+      ],
+      "selectedObjectHandles": [],
+      "extractFlags": 5,
+      "BlockNameToImageMap": {},
+      "$type": "Autodesk.AutoCAD.DataExtraction.DxDrawingDataExtractorSettings"
+    },
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxDrawingDataExtractor"
+  },
+  "report": {
+    "strSort": "",
+    "strFilter": "",
+    "nCheckSum": 0,
+    "bGroupMatchingRows": false,
+    "ColLists": [
+      {
+        "strGlobalName": "AcDxCount",
+        "strDisplayName": "Count",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 8,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxHandleData",
+        "strDisplayName": "AcDxHandleData",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 16,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxObjectTypeGlobalName",
+        "strDisplayName": "Name",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 16,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxObjectTypeName",
+        "strDisplayName": "Name",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgAuthor",
+        "strDisplayName": "Author",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Color",
+        "strDisplayName": "Color",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgComments",
+        "strDisplayName": "Comments",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgRevisionNumber",
+        "strDisplayName": "Drawing Revision Number",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "EdgeStyleId",
+        "strDisplayName": "EdgeStyleId",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "FaceStyleId",
+        "strDisplayName": "FaceStyleId",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgAccessed",
+        "strDisplayName": "File Accessed",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgCreated",
+        "strDisplayName": "File Created",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgLastSavedBy",
+        "strDisplayName": "File Last Saved By",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgLocation",
+        "strDisplayName": "File Location",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgModified",
+        "strDisplayName": "File Modified",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 8,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgName",
+        "strDisplayName": "File Name",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgSize",
+        "strDisplayName": "File Size",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxEntityHyperlink",
+        "strDisplayName": "Hyperlink",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgHyperLinkBase",
+        "strDisplayName": "Hyperlink Base",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgKeywords",
+        "strDisplayName": "Keywords",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Layer",
+        "strDisplayName": "Layer",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Linetype",
+        "strDisplayName": "Linetype",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "LinetypeScale",
+        "strDisplayName": "Linetype Scale",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu2",
+          "DataType": 2,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu2",
+          "DataType": 2,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "LineWeight",
+        "strDisplayName": "Lineweight",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Material",
+        "strDisplayName": "Material",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "PlotStyleName",
+        "strDisplayName": "Plot Style",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgSubject",
+        "strDisplayName": "Subject",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgTitle",
+        "strDisplayName": "Title",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 4,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "AcDxDwgSummaryDwgTotalEditingTime",
+        "strDisplayName": "Total Editing Time",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 1,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "VisualStyleId",
+        "strDisplayName": "VisualStyleId",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": null,
+          "DataType": 0,
+          "UnitType": 0,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Position.X",
+        "strDisplayName": "Position X",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Position.Y",
+        "strDisplayName": "Position Y",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Position.Z",
+        "strDisplayName": "Position Z",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      },
+      {
+        "strGlobalName": "Thickness",
+        "strDisplayName": "Thickness",
+        "strFormula": null,
+        "strDisplayedFormula": null,
+        "strFilter": "",
+        "FormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "OriginalFormatInfo": {
+          "Format": "%lu6",
+          "DataType": 2,
+          "UnitType": 1,
+          "$type": "Autodesk.AutoCAD.DataExtraction.FormatInfo"
+        },
+        "flags": 1,
+        "subTotalMode": 0,
+        "combineMode": 0,
+        "$type": "Autodesk.AutoCAD.DataExtraction.DxColumn2"
+      }
+    ],
+    "bMultiSorted": false,
+    "bInAggregateMode": true,
+    "MergeSettingList": null,
+    "ColumnDataTypes": [
+      {
+        "Data": "System.Int32"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.DateTime"
+      },
+      {
+        "Data": "System.DateTime"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.DateTime"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.Int32"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.Double"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.Int32"
+      },
+      {
+        "Data": "System.String"
+      },
+      {
+        "Data": "System.Double"
+      },
+      {
+        "Data": "System.Double"
+      },
+      {
+        "Data": "System.Double"
+      },
+      {
+        "Data": "System.Double"
+      }
+    ],
+    "tblForInvalidGlobal": {},
+    "reportTable": [
+      "\u003CNewDataSet\u003E\r\n  \u003Cxs:schema id=\u0022NewDataSet\u0022 xmlns=\u0022\u0022 xmlns:xs=\u0022http://www.w3.org/2001/XMLSchema\u0022 xmlns:msdata=\u0022urn:schemas-microsoft-com:xml-msdata\u0022\u003E\r\n    \u003Cxs:element name=\u0022NewDataSet\u0022 msdata:IsDataSet=\u0022true\u0022 msdata:MainDataTable=\u0022_x0024_table_name_x0024_\u0022 msdata:UseCurrentLocale=\u0022true\u0022\u003E\r\n      \u003Cxs:complexType\u003E\r\n        \u003Cxs:choice minOccurs=\u00220\u0022 maxOccurs=\u0022unbounded\u0022\u003E\r\n          \u003Cxs:element name=\u0022_x0024_table_name_x0024_\u0022\u003E\r\n            \u003Cxs:complexType\u003E\r\n              \u003Cxs:sequence\u003E\r\n                \u003Cxs:element name=\u0022Count\u0022 type=\u0022xs:int\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Name\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Author\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Color\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Comments\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Drawing_x0020_Revision_x0020_Number\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022EdgeStyleId\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022FaceStyleId\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Accessed\u0022 type=\u0022xs:dateTime\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Created\u0022 type=\u0022xs:dateTime\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Last_x0020_Saved_x0020_By\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Location\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Modified\u0022 type=\u0022xs:dateTime\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Name\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022File_x0020_Size\u0022 type=\u0022xs:int\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Hyperlink\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Hyperlink_x0020_Base\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Keywords\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Layer\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Linetype\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Linetype_x0020_Scale\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Lineweight\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Material\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Plot_x0020_Style\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Subject\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Title\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Total_x0020_Editing_x0020_Time\u0022 type=\u0022xs:int\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022VisualStyleId\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Position_x0020_X\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Position_x0020_Y\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Position_x0020_Z\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n                \u003Cxs:element name=\u0022Thickness\u0022 type=\u0022xs:string\u0022 minOccurs=\u00220\u0022 /\u003E\r\n              \u003C/xs:sequence\u003E\r\n            \u003C/xs:complexType\u003E\r\n          \u003C/xs:element\u003E\r\n        \u003C/xs:choice\u003E\r\n      \u003C/xs:complexType\u003E\r\n    \u003C/xs:element\u003E\r\n  \u003C/xs:schema\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003E3D Solid\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003EByLayer\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E1.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CMaterial\u003EDefault\u003C/Material\u003E\r\n    \u003CPlot_x0020_Style\u003EByLayer\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E42.8630\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-27.9997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E47.9530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-22.0997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-35.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E26.4530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-22.0897\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E35.4530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-25.0597\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E13.4530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-25.0597\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E52.6030\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-23.9997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E71.0530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-27.9997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E4.0330\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-24.4997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E2.4830\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-35.2997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003E237,31,36\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_240\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E-10.5470\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-47.4997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E8.7130\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-42.4997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E6.9530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-50.3997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E-5.0470\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-42.7497\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E-11.4470\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-44.9997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E2.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E6.4530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-17.8997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n  \u003C_x0024_table_name_x0024_\u003E\r\n    \u003CCount\u003E1\u003C/Count\u003E\r\n    \u003CName\u003EPoint\u003C/Name\u003E\r\n    \u003CAuthor /\u003E\r\n    \u003CColor\u003Emagenta\u003C/Color\u003E\r\n    \u003CComments /\u003E\r\n    \u003CDrawing_x0020_Revision_x0020_Number /\u003E\r\n    \u003CEdgeStyleId\u003E(0)\u003C/EdgeStyleId\u003E\r\n    \u003CFaceStyleId\u003E(0)\u003C/FaceStyleId\u003E\r\n    \u003CFile_x0020_Accessed\u003E2025-09-26T14:48:36.8586674-06:00\u003C/File_x0020_Accessed\u003E\r\n    \u003CFile_x0020_Created\u003E2025-09-26T13:30:06-06:00\u003C/File_x0020_Created\u003E\r\n    \u003CFile_x0020_Last_x0020_Saved_x0020_By\u003Eeduar\u003C/File_x0020_Last_x0020_Saved_x0020_By\u003E\r\n    \u003CFile_x0020_Location\u003EC:\\Users\\eduar\\Desktop\\Eduardo\\uvg\\megaproyecto\\Mapeo-Red-Sensores\\mapa cad\u003C/File_x0020_Location\u003E\r\n    \u003CFile_x0020_Modified\u003E2025-09-26T14:48:36-06:00\u003C/File_x0020_Modified\u003E\r\n    \u003CFile_x0020_Name\u003ECIT-Floor-6.dwg\u003C/File_x0020_Name\u003E\r\n    \u003CFile_x0020_Size\u003E605016\u003C/File_x0020_Size\u003E\r\n    \u003CHyperlink /\u003E\r\n    \u003CHyperlink_x0020_Base /\u003E\r\n    \u003CKeywords /\u003E\r\n    \u003CLayer\u003E0\u003C/Layer\u003E\r\n    \u003CLinetype\u003EByLayer\u003C/Linetype\u003E\r\n    \u003CLinetype_x0020_Scale\u003E1.0000\u003C/Linetype_x0020_Scale\u003E\r\n    \u003CLineweight\u003EByLayer\u003C/Lineweight\u003E\r\n    \u003CPlot_x0020_Style\u003EColor_6\u003C/Plot_x0020_Style\u003E\r\n    \u003CSubject /\u003E\r\n    \u003CTitle /\u003E\r\n    \u003CTotal_x0020_Editing_x0020_Time\u003E80\u003C/Total_x0020_Editing_x0020_Time\u003E\r\n    \u003CVisualStyleId\u003E(0)\u003C/VisualStyleId\u003E\r\n    \u003CPosition_x0020_X\u003E58.9530\u003C/Position_x0020_X\u003E\r\n    \u003CPosition_x0020_Y\u003E-29.3997\u003C/Position_x0020_Y\u003E\r\n    \u003CPosition_x0020_Z\u003E-32.8940\u003C/Position_x0020_Z\u003E\r\n    \u003CThickness\u003E0.0000\u003C/Thickness\u003E\r\n  \u003C/_x0024_table_name_x0024_\u003E\r\n\u003C/NewDataSet\u003E"
+    ],
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxReport"
+  },
+  "outputSettings": {
+    "ouputFlags": 1,
+    "fileName": "C:\\Users\\eduar\\Documents\\CIT-Floor-6.xlsx",
+    "fileOutputType": 1,
+    "tableStyleName": "",
+    "manuallySetupTable": false,
+    "tableTitle": "",
+    "titleCellStyle": "",
+    "headerCellStyle": "",
+    "dataCellStyle": "",
+    "usePropertyNameAsColumnHeader": false,
+    "$type": "Autodesk.AutoCAD.DataExtraction.DxOutputSettings"
+  },
+  "wizardSettings": {
+    "displayOptions": 27,
+    "unselectedCategiries": [],
+    "selectedTypeNames": [
+      "Autodesk.AutoCAD.DatabaseServices.Solid3d",
+      "Autodesk.AutoCAD.DatabaseServices.DBPoint"
+    ],
+    "selectedPropertyNames": [
+      "AcDxObjectTypeGlobalName",
+      "AcDxObjectTypeName",
+      "AcDxDwgSummaryDwgAuthor",
+      "Color",
+      "AcDxDwgSummaryDwgComments",
+      "AcDxDwgSummaryDwgRevisionNumber",
+      "EdgeStyleId",
+      "FaceStyleId",
+      "AcDxDwgSummaryDwgAccessed",
+      "AcDxDwgSummaryDwgCreated",
+      "AcDxDwgSummaryDwgLastSavedBy",
+      "AcDxDwgSummaryDwgLocation",
+      "AcDxDwgSummaryDwgModified",
+      "AcDxDwgSummaryDwgName",
+      "AcDxDwgSummaryDwgSize",
+      "AcDxEntityHyperlink",
+      "AcDxDwgSummaryDwgHyperLinkBase",
+      "AcDxDwgSummaryDwgKeywords",
+      "Layer",
+      "Linetype",
+      "LinetypeScale",
+      "LineWeight",
+      "Material",
+      "PlotStyleName",
+      "Position.X",
+      "Position.Y",
+      "Position.Z",
+      "AcDxDwgSummaryDwgSubject",
+      "Thickness",
+      "AcDxDwgSummaryDwgTitle",
+      "AcDxDwgSummaryDwgTotalEditingTime",
+      "VisualStyleId"
+    ],
+    "typeNameAlias": {},
+    "propertyNameAlias": {},
+    "$type": "Autodesk.AutoCAD.DataExtraction.WizardSettings"
+  }
+}
